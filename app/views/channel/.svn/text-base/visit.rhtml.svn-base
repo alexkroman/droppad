@@ -1,0 +1,68 @@
+<% @page_title = @channel.name %>
+<% @body_id = 'container' %>
+
+<% content_for("page_scripts") do -%>
+	function idea_added() {
+		new Insertion.Bottom('stage', '<div><span class="content"><img alt="Rate this idea" border="0" src="/images/star_on.png" /> ' + $('entryfield').value) + '</span></div>';
+		$('entryfield').value = ''; 
+		$('entryfield').focus;
+		$('conversation').scrollTop = $('conversation').scrollHeight + $('conversation').clientHeight;
+	}
+	
+	function sending_invite() {
+		hideBox();
+		$('invite_emails').value = '';
+		$('invite_name').value='';
+		Element.show('sending_invites');
+	}
+<% end -%>
+
+<div id="overlay" onclick="hideBox()" style="display:none"></div>
+
+<div id="box" style="display:none">
+    <img id="close" src="/images/close.gif" onclick="hideBox()" alt="Close" title="Close this window" />
+	<div style="color:white;">
+		<b>Invite other people to brainstorm</b>
+		<p>
+			<small>Enter your friends' email addresses separated by commas and they will receive a link to this brainstorm.</small>
+		</p>
+		<%= form_remote_tag :url => { :action => 'send_invitation', :id => @channel.identifier }, :loading => "sending_invite()", :complete => "Element.hide('sending_invites');" %>
+		<b>Emails:</b>
+		<%= text_area 'invite', 'emails', 'cols' => 30, 'rows' => 5 %><br /><br />
+		<b>Your Name:</b>
+		<%= text_field 'invite', 'name' %><br />
+		
+		<p><%= submit_tag "Send Invitations" %></p>
+		
+		<%= end_form_tag %>
+	</div>
+</div>
+	<div id="sending_invites" style="display:none;">Sending invitations...</div>
+	<div id="header">
+		<div id="navigation"><h1><%= link_to 'Droppad', :controller => '/' %></h1></div>
+		<div id="buttons">
+			<a href="#" onclick="showBox();">Invite collaborators</a>
+			| <%= link_to 'View top ideas', :action => 'top', :id => @channel.identifier %>
+			| <%= link_to 'Logout', :action => 'logout' %>
+		    | <%= link_to 'RSS', :action => 'rss', :id => @channel.identifier %>
+		</div>	
+	</div>
+
+	<div id="typebox">
+	    <%= form_remote_tag :url => { :controller => 'channel', :action => 'say', :id => @channel.identifier }, :loading => "idea_added()" %>
+	
+		<%= text_field 'talk', 'message', 'id' => 'entryfield', 'value' => 'Type your idea here and press enter...  Star your favorites!', 'onclick' => "$('entryfield').value=''" %>  
+
+	    <%= end_form_tag %>
+	</div>
+
+	<div id="conversation">
+	    <div id="stage">
+		<h1><%= h @channel.name %></h1>
+			<% for message in @channel.messages %>
+				<%= message_content(message) %>
+			<% end %>
+		</div>
+	</div>
+
+	<%= periodically_call_remote :url => { :controller => 'channel', :action => 'get_latest_messages', :id => @channel.identifier }, :frequency => 10, :complete => "eval(request.responseText)" %>

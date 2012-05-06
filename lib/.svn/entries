@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="43"
+   name=""
+   committed-date="2006-03-26T21:55:45.820947Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/lib"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   name="tasks"
+   kind="dir"/>
+<entry
+   committed-rev="43"
+   name="login_system.rb"
+   text-time="2006-03-26T22:24:07.000000Z"
+   committed-date="2006-03-26T21:55:45.820947Z"
+   checksum="ffcf3ab666e047e9906d610f72df6194"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+</wc-entries>

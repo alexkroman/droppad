@@ -1,0 +1,9 @@
+<div id="message-<%= @message.id %>">
+	<span class="content">
+		<span id="image-<%= @message.id %>-on" style="display:<% if @ratings_hash[@message.id] == nil %>none<% else %>inline<% end %>"><%= link_to_remote(image_tag('/images/star_on.png', {'alt' => 'Rate this idea', 'border' => 0}), 
+												:loading => "Element.hide('image-#{@message.id}-on');Element.show('image-#{@message.id}-off')",
+												:url => { :action => :remove_rating, :id => @message }) %></span>
+												
+		<span id="image-<%= @message.id %>-off" style="display:<% if @ratings_hash[@message.id] == nil %>inline<% else %>none<% end %>"><%= link_to_remote(image_tag('/images/star_off.png', {'alt' => 'Rate this idea', 'border' => 0}), 
+											:loading => "Element.hide('image-#{@message.id}-off');Element.show('image-#{@message.id}-on')",
+											:url => { :action => :rate, :id => @message }) %></span> <%= h @message.content %></span></div>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2006-03-26T22:17:06.493947Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/app/views/channel"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   committed-rev="48"
+   name="visit.rhtml"
+   text-time="2006-03-29T14:28:54.000000Z"
+   committed-date="2006-03-28T14:32:37.958962Z"
+   checksum="9a4078939324627a58b69a038905b494"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:04.000000Z"
+   revision="48"/>
+<entry
+   committed-rev="1"
+   name="_latest_messages.rhtml"
+   text-time="2006-03-26T22:24:05.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="cb8e1b231f9a7424beccb945abc4e1c4"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:04.000000Z"/>
+<entry
+   committed-rev="23"
+   name="top.rhtml"
+   text-time="2006-03-26T22:24:05.000000Z"
+   committed-date="2006-03-25T23:22:11.282489Z"
+   checksum="7277d808944d769dd4cb70a7e016419f"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:04.000000Z"/>
+<entry
+   committed-rev="25"
+   name="_message.rhtml"
+   text-time="2006-03-28T14:40:15.000000Z"
+   committed-date="2006-03-26T00:02:34.597770Z"
+   checksum="b2f50ad9cfdeda649af90eb0c52b2449"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   committed-rev="15"
+   name="rss.rxml"
+   text-time="2006-03-26T22:24:05.000000Z"
+   committed-date="2006-03-19T20:17:51.566922Z"
+   checksum="6a32feb4e9f0061d9fa7159b675294fe"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   committed-rev="41"
+   name="index.rhtml"
+   text-time="2006-03-27T01:33:20.000000Z"
+   committed-date="2006-03-26T21:38:50.319339Z"
+   checksum="9f7b360ada68e3b4b7b81762f04a5bad"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   committed-rev="39"
+   name="login.rhtml"
+   text-time="2006-03-26T22:24:05.000000Z"
+   committed-date="2006-03-26T20:49:38.294742Z"
+   checksum="c2be96f46eea30b9327535e2365f1683"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+</wc-entries>

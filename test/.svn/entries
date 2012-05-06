@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-03-19T02:21:53.495637Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/test"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   name="unit"
+   kind="dir"/>
+<entry
+   committed-rev="47"
+   name="test_helper.rb"
+   text-time="2006-03-26T22:54:06.000000Z"
+   committed-date="2006-03-26T22:58:06.573333Z"
+   checksum="af67d80a30ec6a6e7c5d36013e9aea06"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:03.000000Z"
+   revision="47"/>
+<entry
+   name="functional"
+   kind="dir"/>
+<entry
+   name="fixtures"
+   kind="dir"/>
+<entry
+   name="mocks"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2006-03-19T15:20:56.772409Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/lib/tasks"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   committed-rev="4"
+   name="capistrano.rake"
+   text-time="2006-03-26T22:24:07.000000Z"
+   committed-date="2006-03-19T15:20:56.772409Z"
+   checksum="628eb2752bdddef5496bac100c7cea28"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+</wc-entries>

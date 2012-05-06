@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-03-19T02:21:53.495637Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/doc"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   committed-rev="1"
+   name="README_FOR_APP"
+   text-time="2006-03-26T22:24:06.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="b4c29cfcb0758d15bdf7afbd2a5c280a"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:06.000000Z"/>
+</wc-entries>

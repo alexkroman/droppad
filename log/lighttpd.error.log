@@ -1,0 +1,22 @@
+2006-03-26 14:24:39: (log.c.75) server started 
+2006-03-26 14:28:03: (log.c.135) server stopped 
+2006-03-26 14:28:09: (log.c.75) server started 
+2006-03-26 17:27:17: (server.c.1054) [note] sockets disabled, out-of-fds 
+2006-03-26 17:29:54: (log.c.135) server stopped 
+2006-03-26 17:30:00: (log.c.75) server started 
+2006-03-27 06:21:17: (server.c.960) NOTE: a request for dispatch.fcgi timed out after writing 249 bytes. We waited 360 seconds. If this a problem increase server.max-write-idle 
+2006-03-27 06:21:17: (server.c.960) NOTE: a request for dispatch.fcgi timed out after writing 249 bytes. We waited 360 seconds. If this a problem increase server.max-write-idle 
+2006-03-27 19:46:07: (log.c.135) server stopped 
+2006-03-28 06:03:33: (log.c.75) server started 
+2006-03-28 06:35:46: (mod_fastcgi.c.2373) FastCGI-stderr: /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activerecord-1.13.2/lib/active_record/associations/association_proxy.rb:75: warning: Object#id will be deprecated; use Object#object_id
+ 
+2006-03-28 06:35:46: (mod_fastcgi.c.2373) FastCGI-stderr:  
+2006-03-28 06:39:25: (log.c.135) server stopped 
+2006-03-28 06:39:27: (log.c.75) server started 
+2006-03-29 06:03:55: (log.c.135) server stopped 
+2006-03-29 06:16:48: (log.c.75) server started 
+2006-03-29 21:31:10: (server.c.960) NOTE: a request for dispatch.fcgi timed out after writing 230 bytes. We waited 360 seconds. If this a problem increase server.max-write-idle 
+2006-03-29 21:31:10: (server.c.960) NOTE: a request for dispatch.fcgi timed out after writing 230 bytes. We waited 360 seconds. If this a problem increase server.max-write-idle 
+2006-03-29 21:31:39: (log.c.135) server stopped 
+2006-04-01 10:59:54: (log.c.75) server started 
+2006-04-01 10:59:58: (log.c.135) server stopped 

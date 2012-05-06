@@ -1,0 +1,43 @@
+<% @page_title = 'Droppad - Secure brainstorming for everyone!' %>
+
+<div id="conversation_main">
+	<div style="margin-left:15%;margin-right:15%;margin-top:15px;text-align:center">
+		<font size="6">Harvest your group's collective genius</font><br /><br />
+		Droppads are secure, digital whiteboards that you can use to capture and rank ideas from anyone.
+		<br />
+		<br />
+	</div>
+		<div style="margin-left:30%;margin-right:30%;margin-top:15px;background-color:#ccc;padding:10px;border:3px solid #999;">
+			<% unless @channel.nil? %>
+			<% unless @channel.errors.empty? %>
+			<div id="errors">
+			  <% @channel.errors.each_full do |message| %>
+			    <small><%= message %></small><br />
+			  <% end %>
+			</div>
+			<% end %>
+			<% end -%>
+
+		<%= start_form_tag %>
+		<span style="font-size:24px;">Create a new droppad</span><br />
+		<small>It is completely free and takes 5 seconds to get going.</small>
+		<br /><br />
+		1. Name your droppad<br />
+	    <%= text_field 'channel', 'name', 'size' => '35'  %> <br />
+		<font size="1"><em>Ex. New Product Ideas, Competitor list</em></font><br />
+		2. Protect it with a password<br />
+		<%= password_field 'channel', 'password', 'size' => '35'  %><br />
+		<font size="1"><em>Only people who know the password will be able to access this droppad</em></font><br />
+		
+		3. Enter your email address<br />
+		<%= text_field 'channel', 'email', 'size' => '35'  %><br />
+		<font size="1"><em>We will never send you spam or sell your email address</em></font><br />
+		
+		<%= submit_tag "Create droppad" %>
+		<%= end_form_tag %>
+				</div>
+		<br />
+´		<br />
+<div align="center">"None of us is as smart as all of us" -Japanese Proverb</div>
+
+</div>

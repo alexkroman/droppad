@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="19"
+   name=""
+   committed-date="2006-03-25T20:56:11.994910Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/public/javascripts"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   committed-rev="1"
+   name="prototype.js"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="ec266084ece29ede795db38c9c8cbf3d"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="19"
+   name="general.js"
+   text-time="2006-03-27T01:33:20.000000Z"
+   committed-date="2006-03-25T20:56:11.994910Z"
+   checksum="2faa09c0e8f514a34318393b24abda53"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="effects.js"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="605714e775e00553107917f954912b8b"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dragdrop.js"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="7d7b1fc58236f17167b14d10c9009193"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name="controls.js"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="b15d7a73fdf2a4e88fe2a99c10156f9f"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:08.000000Z"/>
+</wc-entries>

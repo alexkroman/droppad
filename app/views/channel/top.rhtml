@@ -1,0 +1,16 @@
+<% @page_title = @channel.name %>
+<div id="header">
+<div id="navigation"><h1>Brain Storms</h1></div>
+<div id="buttons"> 
+	<%= link_to 'Go back and add more ideas', :action => 'visit', :id => @channel.identifier %></div>
+	
+</div>
+
+<div id="conversation">
+    <div id="stage">
+		<h1>Top ranked ideas for '<%= h @channel.name.slice(0..50) %>'</h1>
+		<% for message in @channel.messages.top %>
+			<div><%= h message.content %></div>
+		<% end %>
+	</div>
+</div>

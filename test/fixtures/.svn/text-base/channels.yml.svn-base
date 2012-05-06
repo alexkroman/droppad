@@ -1,0 +1,7 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+channel1:
+  id: 1
+  name: This is my channel
+  password: password
+  email: test@test.com
+  identifier: 123456

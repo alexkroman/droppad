@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-03-19T02:21:53.495637Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/script"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   name="performance"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="console"
+   text-time="2006-03-26T22:24:06.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="e9da4d9bd98b629d856b280caa927f42"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="breakpointer"
+   text-time="2006-03-26T22:24:06.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="efe05546991854cb1323026c0cdc7d27"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="server"
+   text-time="2006-03-26T22:24:06.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="bba2905059daec6033f7a51cff19aff6"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="runner"
+   text-time="2006-03-26T22:24:06.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="78522a2f43ce4bf932cf237076c0d2a1"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="destroy"
+   text-time="2006-03-26T22:24:06.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="f09bb329fb28e89340567a704a4619f8"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="generate"
+   text-time="2006-03-26T22:24:06.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="ef69c53ee39f550f43a4bd3a09482ff7"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   committed-rev="1"
+   name="about"
+   text-time="2006-03-26T22:24:06.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="e8f2a1c34090a8be9dd2a635a6c51d9e"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   name="process"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="plugin"
+   text-time="2006-03-26T22:24:06.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="4c5aa44730cde119ab839486212f4ac5"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:06.000000Z"/>
+</wc-entries>

@@ -1,0 +1,19 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title><%= @page_title %></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <%= stylesheet_link_tag "brainstorm" %>
+	<%= javascript_include_tag "prototype" %>
+	<%= javascript_include_tag "general" %>
+	<script type="text/javascript"><%= @content_for_page_scripts %></script>
+</head>
+
+<body id="<%= @body_id %>" class="normal" onload="AutoResize();" onresize="AutoResize();">
+	    <% if @flash[:error] %><div id="flash_error"><%= @flash[:error] %></div><% end %>
+	    <% if @flash[:message] %><div id="flash_message"><%= @flash[:message] %></div><% end %>
+        <%= @content_for_layout %>
+</body>
+</html>

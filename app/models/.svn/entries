@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="38"
+   name=""
+   committed-date="2006-03-26T20:40:29.778311Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/app/models"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   committed-rev="38"
+   name="message.rb"
+   text-time="2006-03-26T22:24:04.000000Z"
+   committed-date="2006-03-26T20:40:29.778311Z"
+   checksum="38bb8f5ddd4747b296ee199442fe2e0d"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:04.000000Z"/>
+<entry
+   committed-rev="38"
+   name="rating.rb"
+   text-time="2006-03-26T22:24:04.000000Z"
+   committed-date="2006-03-26T20:40:29.778311Z"
+   checksum="267bcda5e36aae1bb3ff783be9d4b717"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:04.000000Z"/>
+<entry
+   committed-rev="38"
+   name="channel.rb"
+   text-time="2006-03-26T22:24:04.000000Z"
+   committed-date="2006-03-26T20:40:29.778311Z"
+   checksum="1c13bb5db00d9ae4024eb95220e10293"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:04.000000Z"/>
+<entry
+   committed-rev="28"
+   name="idea_mailer.rb"
+   text-time="2006-03-26T22:24:04.000000Z"
+   committed-date="2006-03-26T16:51:31.421566Z"
+   checksum="764f0a9b0a03ec9d92f32e074f0ef21b"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:04.000000Z"/>
+</wc-entries>

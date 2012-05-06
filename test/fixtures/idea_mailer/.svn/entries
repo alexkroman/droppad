@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2006-03-19T02:21:53.495637Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/test/fixtures/idea_mailer"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   committed-rev="1"
+   name="invitation"
+   text-time="2006-03-26T22:24:03.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="8059fdf498286b441a3908a2a59e627b"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:03.000000Z"/>
+</wc-entries>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2006-03-26T22:17:06.493947Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/public/images"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   committed-rev="1"
+   name="green.png"
+   text-time="2006-03-26T22:24:07.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="d91ff85025612e9546b06943240e01de"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="overlay.png"
+   text-time="2006-03-26T22:24:07.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="143d209e15051311fdae758b295036b5"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="25"
+   name="star_off.png"
+   text-time="2006-03-26T22:24:07.000000Z"
+   committed-date="2006-03-26T00:02:34.597770Z"
+   checksum="6c0a4ec52822035d12c098339662698d"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="25"
+   name="star_on.png"
+   text-time="2006-03-26T22:24:07.000000Z"
+   committed-date="2006-03-26T00:02:34.597770Z"
+   checksum="f892ae3a5f8b9c5c2678c9456b7a2e1b"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="close.gif"
+   text-time="2006-03-26T22:24:07.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="4c7843fd7f423263703c3192344534bb"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="41"
+   name="error.png"
+   text-time="2006-03-26T22:24:07.000000Z"
+   committed-date="2006-03-26T21:38:50.319339Z"
+   checksum="c847e1076da70df83ef5284622b82a74"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="rails.png"
+   text-time="2006-03-26T22:24:07.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="450fc241fab7867e96536903244087f4"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+</wc-entries>

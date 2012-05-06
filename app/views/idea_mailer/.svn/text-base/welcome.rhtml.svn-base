@@ -1,0 +1,13 @@
+Hi!
+
+You have created an ideabox about:
+<%= @channel.name %>
+
+You can access this brainstorm here:
+http://ideas.alexkroman.com/channel/visit/<%= @channel.identifier %>
+
+The password is:
+<%= @channel.password %>
+
+Thanks!
+Alex

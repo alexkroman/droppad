@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2006-03-26T22:17:06.493947Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com/public"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   committed-rev="1"
+   name="dispatch.cgi"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="815d89af9accd94f54fc8f1ec144fcbc"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dispatch.rb"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="815d89af9accd94f54fc8f1ec144fcbc"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="robots.txt"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="a9d8217ec04c304aba7926ae1f066973"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="dispatch.fcgi"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="aeefa1552a4af651eadd16f4e0bb1323"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   committed-rev="1"
+   name="500.html"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="8cd49fcfdb23ece0afb07ad7f2625246"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   name="javascripts"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="404.html"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="1248392955936f5d9142da8f66c5b46b"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:08.000000Z"/>
+<entry
+   committed-rev="1"
+   name=".htaccess"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="eebf5d1e0a663f298d77013224f03e4f"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:08.000000Z"/>
+<entry
+   name="stylesheets"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="favicon.ico"
+   text-time="2006-03-26T22:24:08.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:08.000000Z"/>
+</wc-entries>

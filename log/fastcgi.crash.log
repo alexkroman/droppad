@@ -1,0 +1,149 @@
+# Logfile created on Sun Mar 26 14:25:05 PST 2006 by logger.rb/1.5.2.4
+[26/Mar/2006:14:25:05 :: 10453] starting
+[26/Mar/2006:14:25:06 :: 10452] starting
+[26/Mar/2006:14:28:04 :: 10453] asked to terminate immediately
+[26/Mar/2006:14:28:04 :: 10453] terminated by explicit exit
+[26/Mar/2006:14:28:04 :: 10452] asked to terminate immediately
+[26/Mar/2006:14:28:04 :: 10452] terminated by explicit exit
+[26/Mar/2006:14:28:30 :: 10465] starting
+[26/Mar/2006:14:28:30 :: 10464] starting
+[26/Mar/2006:17:29:55 :: 10465] asked to terminate immediately
+[26/Mar/2006:17:29:55 :: 10465] Dispatcher failed to catch: exit (SystemExit)
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit_now_handler'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:21:in `to_proc'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:110:in `call'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `include?'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `each_object'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:3:in `remove_subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/dependencies.rb:43:in `remove_subclasses_for'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:56:in `reset_application!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:75:in `reset_after_dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:46:in `dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:141:in `process_request'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:53:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:22:in `process!'
+  /Users/alexkroman/Sites/droppad.com/public/dispatch.fcgi:24
+
+[26/Mar/2006:17:29:55 :: 10464] asked to terminate immediately
+[26/Mar/2006:17:29:55 :: 10464] Dispatcher failed to catch: exit (SystemExit)
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit_now_handler'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:21:in `to_proc'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:110:in `call'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `include?'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `each_object'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:3:in `remove_subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/dependencies.rb:43:in `remove_subclasses_for'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:56:in `reset_application!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:75:in `reset_after_dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:46:in `dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:141:in `process_request'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:53:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:22:in `process!'
+  /Users/alexkroman/Sites/droppad.com/public/dispatch.fcgi:24
+
+[26/Mar/2006:17:29:55 :: 10465] asked to terminate immediately
+[26/Mar/2006:17:30:19 :: 10668] starting
+[26/Mar/2006:17:30:19 :: 10667] starting
+[27/Mar/2006:19:46:07 :: 10668] asked to terminate immediately
+[27/Mar/2006:19:46:07 :: 10667] asked to terminate immediately
+[27/Mar/2006:19:46:07 :: 10667] Dispatcher failed to catch: exit (SystemExit)
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit_now_handler'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:21:in `to_proc'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:110:in `call'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `include?'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `each_object'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:3:in `remove_subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/dependencies.rb:43:in `remove_subclasses_for'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:56:in `reset_application!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:75:in `reset_after_dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:46:in `dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:141:in `process_request'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:53:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:22:in `process!'
+  /Users/alexkroman/Sites/droppad.com/public/dispatch.fcgi:24
+
+[27/Mar/2006:19:46:07 :: 10668] Dispatcher failed to catch: exit (SystemExit)
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit_now_handler'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:21:in `to_proc'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:110:in `call'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `include?'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `each_object'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:3:in `remove_subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/dependencies.rb:43:in `remove_subclasses_for'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:56:in `reset_application!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:75:in `reset_after_dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:46:in `dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:141:in `process_request'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:53:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:22:in `process!'
+  /Users/alexkroman/Sites/droppad.com/public/dispatch.fcgi:24
+
+[27/Mar/2006:19:46:11 :: 10668] asked to terminate immediately
+[27/Mar/2006:19:46:11 :: 10667] asked to terminate immediately
+[28/Mar/2006:06:04:17 :: 12020] starting
+[28/Mar/2006:06:04:17 :: 12019] starting
+[28/Mar/2006:06:39:26 :: 12020] asked to terminate immediately
+[28/Mar/2006:06:39:26 :: 12020] terminated by explicit exit
+[28/Mar/2006:06:39:26 :: 12019] asked to terminate immediately
+[28/Mar/2006:06:39:26 :: 12019] terminated by explicit exit
+[28/Mar/2006:06:39:52 :: 12072] starting
+[28/Mar/2006:06:39:52 :: 12071] starting
+[29/Mar/2006:06:03:56 :: 12072] asked to terminate immediately
+[29/Mar/2006:06:03:56 :: 12072] asked to terminate immediately
+[29/Mar/2006:06:03:56 :: 12071] asked to terminate immediately
+[29/Mar/2006:06:03:56 :: 12071] terminated by explicit exit
+[29/Mar/2006:06:03:56 :: 12071] asked to terminate immediately
+[29/Mar/2006:06:17:22 :: 13191] starting
+[29/Mar/2006:06:17:22 :: 13192] starting
+[29/Mar/2006:21:31:40 :: 13192] asked to terminate immediately
+[29/Mar/2006:21:31:40 :: 13192] Dispatcher failed to catch: exit (SystemExit)
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:122:in `exit_now_handler'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/site_ruby/1.8/rubygems/custom_require.rb:21:in `to_proc'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:110:in `call'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `include?'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:11:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `each_object'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:10:in `subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/core_ext/object_and_class.rb:3:in `remove_subclasses_of'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/activesupport-1.2.5/lib/active_support/dependencies.rb:43:in `remove_subclasses_for'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:56:in `reset_application!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:75:in `reset_after_dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/dispatcher.rb:46:in `dispatch'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:141:in `process_request'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:53:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/fcgi-0.8.6.1/./fcgi.rb:597:in `each_cgi'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:52:in `process!'
+  /Applications/Locomotive/Bundles/rails-1.0.0-max.bundle/Contents/Resources/ports/lib/ruby/gems/1.8/gems/rails-1.0.0/lib/fcgi_handler.rb:22:in `process!'
+  /Users/alexkroman/Sites/droppad.com/public/dispatch.fcgi:24
+

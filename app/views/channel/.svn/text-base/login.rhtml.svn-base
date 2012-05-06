@@ -1,0 +1,10 @@
+<% @page_title = 'Droppad - Secure brainstorming for everyone!' %>
+<div id="conversation_main">
+		<div style="margin-left:20%;margin-right:20%;">
+		<%= start_form_tag :action => 'login' %>
+		Enter your password<br />
+		<%= password_field 'channel', 'password', 'size' => '40'  %><br />
+		<%= submit_tag "Let me in" %>
+		<%= end_form_tag %>
+		</div>
+</div>

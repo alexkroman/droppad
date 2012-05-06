@@ -1,0 +1,28 @@
+# Logfile created on Sun Mar 26 14:37:31 PST 2006 by logger.rb/1.5.2.4
+  [4;36;1mSQL (0.000426)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000605)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000449)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000508)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000514)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000554)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000509)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000459)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000425)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000460)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000545)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000521)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000453)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000425)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.002407)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000436)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000717)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000436)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.000619)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.000424)[0m   [0;1mBEGIN[0m
+  [4;35;1mChannel Columns (0.009885)[0m   [0mSHOW FIELDS FROM channels[0m
+  [4;36;1mSQL (0.007577)[0m   [0;1mROLLBACK[0m
+  [4;36;1mSQL (0.000491)[0m   [0;1mBEGIN[0m
+  [4;35;1mChannel Columns (0.009408)[0m   [0mSHOW FIELDS FROM channels[0m
+  [4;36;1mSQL (0.004907)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.000425)[0m   [0mBEGIN[0m
+  [4;36;1mSQL (0.000620)[0m   [0;1mROLLBACK[0m

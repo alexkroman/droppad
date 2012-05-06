@@ -1,0 +1,13 @@
+Hi!
+
+<%= @from %> has invited you to help brainstorm about:
+<%= @channel.name %>
+
+You can access this brainstorm here:
+http://ideas.alexkroman.com/channel/visit/<%= @channel.id %>
+
+The password is:
+<%= @channel.password %>
+
+Thanks!
+Alex

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2006-03-26T22:17:06.493947Z"
+   url="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   last-author="alexkroman"
+   kind="dir"
+   uuid="2259c690-4f0f-0410-9a7e-a0ab4dfeb161"
+   repos="svn+ssh://alexkroman.com/home/alexkroman/svn/droppad.com"
+   revision="44"/>
+<entry
+   name="test"
+   kind="dir"/>
+<entry
+   name="app"
+   kind="dir"/>
+<entry
+   name="log"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="Rakefile"
+   text-time="2006-03-26T22:24:09.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="bbf560d44f092d22a30d3a562436ad8c"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:05.000000Z"/>
+<entry
+   name="script"
+   kind="dir"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   name="components"
+   kind="dir"/>
+<entry
+   name="db"
+   kind="dir"/>
+<entry
+   name="lib"
+   kind="dir"/>
+<entry
+   name="vendor"
+   kind="dir"/>
+<entry
+   committed-rev="1"
+   name="README"
+   text-time="2006-03-26T22:24:09.000000Z"
+   committed-date="2006-03-19T02:21:53.495637Z"
+   checksum="ca3fc66c7915b505d3ee6e271b3c093f"
+   last-author="alexkroman"
+   kind="file"
+   prop-time="2006-03-26T22:24:07.000000Z"/>
+<entry
+   name="public"
+   kind="dir"/>
+</wc-entries>
